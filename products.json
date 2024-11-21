@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "lightWeight": false,
+    "vanOnly": false,
+    "name": "Rubber Dumbbells Pair",
+    "basePrice": 2700,
+    "image": "/images/dumbbells.jpg",
+    "variants": [
+      { "weight": "3+3 kg", "price": 2700 },
+      { "weight": "4+4 kg", "price": 3600 },
+      { "weight": "5+5 kg", "price": 4500 },
+      { "weight": "6+6 kg", "price": 5400 },
+      { "weight": "7+7 kg", "price": 6300 },
+      { "weight": "8+8 kg", "price": 7200 },
+      { "weight": "10+10 kg", "price": 9000 },
+      { "weight": "12+12 kg", "price": 10800 },
+      { "weight": "14+14 kg", "price": 12600 },
+      { "weight": "16+16 kg", "price": 14400 }
+    ]
+  },
+  {
+    "id": 2,
+    "lightWeight": false,
+    "vanOnly": false,
+    "name": "Chrome Weight Plates",
+    "basePrice": 1900,
+    "image": "/images/chrome-plates.jpg",
+    "variants": [
+      { "weight": "2+2 kg", "price": 1900 },
+      { "weight": "3+3 kg", "price": 2850 },
+      { "weight": "4+4 kg", "price": 3800 },
+      { "weight": "5+5 kg", "price": 4750 }
+    ]
+  }
+  // Add more products here
+]
