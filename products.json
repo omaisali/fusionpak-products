@@ -167,5 +167,17 @@
       { "type": "9 m", "price": 13000 },
       { "type": "12 m", "price": 17000 }
     ]
+  },
+  {
+    "id": 13,
+    "lightWeight": true,
+    "vanOnly": false,
+    "name": "Tummy Trimmer",
+    "basePrice": 1000,
+    "image":"https://imgur.com/a/n9OlO8z",
+    "variants": [
+      { "type": "Single Spring", "price": 1000 },
+      { "type": "Double Spring", "price": 2000 }
+    ]
   }
 ]
