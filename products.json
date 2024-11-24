@@ -179,5 +179,16 @@
       { "type": "Single Spring", "price": 1000 },
       { "type": "Double Spring", "price": 2000 }
     ]
+  },
+  {
+    "id": 14,
+    "lightWeight": false,
+    "vanOnly": true,
+    "name": "Elliptical Orbit",
+    "basePrice": 60000,
+    "image":"https://i.ibb.co/zftdXVp/IMG-20241122-WA0005.jpg",
+    "variants": [
+      { "type": "American fitfitness Model 8.2-A", "price": 60000 }
+    ]
   }
 ]
