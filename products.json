@@ -190,5 +190,16 @@
     "variants": [
       { "type": "American fitness Model 8.2-A", "price": 60000 }
     ]
+  },
+  {
+    "id": 15,
+    "lightWeight": false,
+    "vanOnly": true,
+    "name": "UPRIGHT Bike",
+    "basePrice": 68000,
+    "image":"https://i.ibb.co/tP7mT5K/Screenshot-2024-11-25-at-7-10-04-PM.png",
+    "variants": [
+      { "type": "American fitness Model BU5901", "price": 68000 }
+    ]
   }
 ]
