@@ -195,11 +195,22 @@
     "id": 15,
     "lightWeight": false,
     "vanOnly": true,
-    "name": "UPRIGHT Bike",
+    "name": "Upright Bike",
     "basePrice": 68000,
     "image":"https://i.ibb.co/tP7mT5K/Screenshot-2024-11-25-at-7-10-04-PM.png",
     "variants": [
       { "type": "American fitness Model BU5901", "price": 68000 }
+    ]
+  },
+  {
+    "id": 16,
+    "lightWeight": false,
+    "vanOnly": true,
+    "name": "Recumbent Bike",
+    "basePrice": 168000,
+    "image":"https://i.ibb.co/pQbmRQd/Screenshot-2024-11-25-at-7-21-09-PM.png",
+    "variants": [
+      { "type": "Rocket Recumbent Bike", "price": 168000 }
     ]
   }
 ]
