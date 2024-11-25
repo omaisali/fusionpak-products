@@ -212,5 +212,16 @@
     "variants": [
       { "type": "Rocket Recumbent Bike", "price": 168000 }
     ]
+  },
+  {
+    "id": 17,
+    "lightWeight": false,
+    "vanOnly": true,
+    "name": "Cross Trainer",
+    "basePrice": 195000,
+    "image":"https://i.ibb.co/vXCktDt/20241125-193815.jpg",
+    "variants": [
+      { "type": "Slim line Model 801-E", "price": 195000 }
+    ]
   }
 ]
